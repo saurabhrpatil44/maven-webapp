@@ -8,7 +8,7 @@
 </head>
 </head>
 <body>
-<h1 style="color: green" align="center">Welcome to Saurabh Labz And Institutes</h1>
+<h1 style="color: green" align="center">Welcome to Saurabh group of Institutes</h1>
 <h1 style="color: red" align="center"> We provide master program Trainings on:</h1>
 <br>
 <h3 style="color: blue" align="center"> Linux</h3>
@@ -22,7 +22,7 @@
 <div style="text-align: center;">
 	<span style="font-weight: bold;">
 		Trainer: Saurabh Patil <br>
-		Mentored By: Zielotech <br>
+		Mentored By: Saurabh group <br>
 		
 	</span>
 </div>
